@@ -1,12 +1,12 @@
 {
-  "name": "YO AM JUST AN AFK BOT OKAY NO MOTHER FUCKERS TOUCH ME",
+  "name": "Bot",
   "bot-account": {
-    "username": "YO AM JUST AN AFK BOT",
-    "password": "",
+    "username": "KirosSMP-bot",
+    "password": "5091190",
     "type": "offline"
   },
   "server": {
-    "ip": "KirosSmp.aternos.me",
+    "ip": "KirosSmp.aternos.me:52889",
     "port": 52889,
     "version": "",
     "try-creative": false
@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "   "
       ]
     },
     "chat-log": true,
